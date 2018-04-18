@@ -1,5 +1,5 @@
 #include <nodelet/nodelet.h>
-#include <pluginlib/class_list_macros.hpp>
+#include <pluginlib/class_list_macros.h>
 #include <string>
 #include <ros/ros.h>
 #include <std_msgs/Bool.h>

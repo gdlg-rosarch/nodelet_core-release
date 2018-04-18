@@ -75,5 +75,5 @@ private:
 
 }  // namespace test_nodelet_topic_tools
 
-#include <pluginlib/class_list_macros.hpp>
+#include <pluginlib/class_list_macros.h>
 PLUGINLIB_EXPORT_CLASS(test_nodelet_topic_tools::NodeletLazyString, nodelet::Nodelet);
